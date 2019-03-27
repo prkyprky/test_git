@@ -68,3 +68,5 @@ zviratka = [Kotatko('Mercy'), Stenatko('Baryk')]
 for zviratko in zviratka:
     zviratko.udelej_zvuk()
     zviratko.snez('beton')
+
+print(Mercy.udelej_zvuk())
